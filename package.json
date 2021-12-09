@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://bahalbach.github.io/card-draw-chance",
+  "homepage": "https://bahalbach.github.io/card-draw-chance",
   "browserslist": {
     "production": [
       ">0.2%",
