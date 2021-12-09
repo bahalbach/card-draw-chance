@@ -25,7 +25,7 @@ export default function CardDrawChance() {
   const handleLookForChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setLookFor(event.target.value);
   };
-  const [chances, setChances] = React.useState([1]);
+  const [chances, setChances] = React.useState([0.6, 0.34, 0.06, 0, 0]);
 
   const validateNumbers = (deck: number, draw: number, target: number) => {
     if (
