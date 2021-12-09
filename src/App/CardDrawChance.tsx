@@ -80,7 +80,7 @@ export default function CardDrawChance() {
         my: 2,
       }}
     >
-      <Box component="form" onSubmit={calculateChances} sx={{ mt: 1 }}>
+      <Box component="form" onSubmit={calculateChances} sx={{ mt: 0 }}>
         <NumberInput
           label="# of Cards in Deck"
           value={deckSize}
