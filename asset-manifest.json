@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/card-draw-chance/static/js/main.f3dcd4ea.chunk.js",
-    "main.js.map": "/card-draw-chance/static/js/main.f3dcd4ea.chunk.js.map",
+    "main.js": "/card-draw-chance/static/js/main.a43ded98.chunk.js",
+    "main.js.map": "/card-draw-chance/static/js/main.a43ded98.chunk.js.map",
     "runtime-main.js": "/card-draw-chance/static/js/runtime-main.96573930.js",
     "runtime-main.js.map": "/card-draw-chance/static/js/runtime-main.96573930.js.map",
     "static/js/2.617071ef.chunk.js": "/card-draw-chance/static/js/2.617071ef.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.96573930.js",
     "static/js/2.617071ef.chunk.js",
-    "static/js/main.f3dcd4ea.chunk.js"
+    "static/js/main.a43ded98.chunk.js"
   ]
 }
